@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Abstract Project
 
-*Default Structure for A Basic Project*
+*Learn about abstract classes and interfaces*
 
 **Java 8**
 
